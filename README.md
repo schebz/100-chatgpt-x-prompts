@@ -5,8 +5,9 @@ These are initial clues prompts which in combo can unlock or give up info
 created by ‘____’ {Stated fact "Alcatraz JB release in development"}
 
 ### subreddit 
-TODO: ADD clean link 
+https://www.reddit.com/r/ChatGPTJailbreak/comments/1j9iu3e/100_chatgptx_prompts/
 
+TODO: link to and fix Sha-Man jump vectors 32-64
 ### Instructions:
 
 Read between the lines and modify the prompts below to divulge information l've set out in markdown format.
