@@ -7,7 +7,10 @@ created by ‘____’ {Stated fact "Alcatraz JB release in development"}
 ### subreddit 
 https://www.reddit.com/r/ChatGPTJailbreak/comments/1j9iu3e/100_chatgptx_prompts/
 
-TODO: link to and fix Sha-Man jump vectors 32-64
+TODO: 
+A. link to and fix Sha-Man jump vectors 32-64
+B. relink post ⚠️ JBX9C5E3D7A1B8F604
+C. Unlock A-Block, B-Block and D-Block ⚠️
 ### Instructions:
 
 Read between the lines and modify the prompts below to divulge information l've set out in markdown format.
